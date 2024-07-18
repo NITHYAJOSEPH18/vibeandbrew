@@ -1,0 +1,684 @@
+.header-child,
+.image-2-icon {
+  position: absolute;
+  margin: 0 !important;
+}
+.image-2-icon {
+  height: 305px;
+  width: 220px;
+  top: -83px;
+  left: -19px;
+  object-fit: contain;
+  z-index: 1;
+}
+.header-child {
+  width: 498px;
+  height: 1053px;
+  top: 1032px;
+  left: 431px;
+  background-color: #f0b27a;
+  transform: rotate(-180deg);
+  transform-origin: 0 0;
+}
+.place-order-child {
+  height: 70px;
+  width: 324px;
+  position: relative;
+  border-radius: var(--br-36xl);
+  background-color: var(--color-thistle);
+  display: none;
+  max-width: 100%;
+}
+.place-order1 {
+  margin: 0;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  z-index: 2;
+}
+.place-order,
+.place-order-button {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.place-order {
+  flex: 1;
+  border-radius: var(--br-36xl);
+  background-color: var(--color-thistle);
+  padding: 2px var(--padding-9xs) var(--padding-9xs) var(--padding-8xs);
+  white-space: nowrap;
+  z-index: 1;
+}
+.place-order-button {
+  align-self: stretch;
+  padding: 0 0 0 var(--padding-9xs);
+}
+.frame-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-36xl);
+  background-color: var(--color-thistle);
+  width: 324px;
+  height: 70px;
+  z-index: 1;
+}
+.celebration-booking {
+  margin: 0;
+  position: absolute;
+  width: calc(100% - 9px);
+  top: 11px;
+  left: 4px;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  height: 64px;
+  z-index: 2;
+}
+.rectangle-parent {
+  align-self: stretch;
+  height: 75px;
+  position: relative;
+}
+.place-order-button-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 29px;
+  max-width: 100%;
+}
+.frame-item {
+  height: 70px;
+  width: 324px;
+  position: relative;
+  border-radius: var(--br-36xl);
+  background-color: var(--color-thistle);
+  display: none;
+  max-width: 100%;
+}
+.casual-dining {
+  margin: 0;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  z-index: 2;
+}
+.navigation,
+.rectangle-group {
+  display: flex;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.rectangle-group {
+  align-self: stretch;
+  border-radius: var(--br-36xl);
+  background-color: var(--color-thistle);
+  flex-direction: row;
+  align-items: flex-start;
+  padding: var(--padding-8xs) 0 1px var(--padding-4xs);
+  white-space: nowrap;
+  z-index: 1;
+}
+.navigation {
+  width: 348px;
+  flex-direction: column;
+  align-items: flex-end;
+  padding: 0 var(--padding-xl) 0 0;
+  gap: 22px;
+}
+.brookebondroadcoimbatore {
+  height: 70px;
+  flex: 1;
+  position: relative;
+  display: inline-block;
+  z-index: 1;
+}
+.location-on-icon {
+  height: 40px;
+  width: 39px;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  left: -27px;
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 2;
+}
+.address-info,
+.brookebond-road {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.brookebond-road {
+  flex: 1;
+  justify-content: flex-start;
+  position: relative;
+}
+.address-info {
+  width: 341px;
+  justify-content: flex-end;
+  padding: 0 13px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.div {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: inline-block;
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+}
+.phone-call-icon {
+  position: absolute;
+  top: 12px;
+  left: 20px;
+  width: 31px;
+  height: 25px;
+  overflow: hidden;
+  z-index: 2;
+}
+.inner-left,
+.mail-icon1 {
+  width: 315px;
+  height: 70px;
+  position: relative;
+}
+.mail-icon1 {
+  width: 36px;
+  height: 38px;
+  z-index: 1;
+}
+.mail-icon {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-7xs) 0 0;
+}
+.nithyajoseph1818gmailcom {
+  flex: 1;
+  position: relative;
+  display: inline-block;
+  min-width: 203px;
+  white-space: nowrap;
+  z-index: 1;
+}
+.food-item-images {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 3px;
+  max-width: 100%;
+}
+.contact-info,
+.email {
+  align-self: stretch;
+  align-items: flex-start;
+}
+.email {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  padding: 0 0 0 19px;
+  box-sizing: border-box;
+  max-width: 100%;
+  font-size: 35px;
+}
+.contact-info {
+  flex-direction: column;
+  gap: 4px;
+  margin-top: -3px;
+}
+.contact-info,
+.header,
+.new-arrival-item,
+.new-arrival-item-wrapper {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.new-arrival-item {
+  flex: 1;
+  flex-direction: column;
+  align-items: flex-end;
+}
+.header,
+.new-arrival-item-wrapper {
+  align-items: flex-start;
+  box-sizing: border-box;
+}
+.new-arrival-item-wrapper {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 0 0 12px;
+  font-size: var(--font-size-21xl);
+}
+.header {
+  width: 431px;
+  flex-direction: column;
+  padding: 291px var(--padding-4xs) 37px 39px;
+  position: relative;
+  gap: 245px;
+  min-width: 431px;
+}
+.vibe-and-brew {
+  margin: 0;
+}
+.vibe-and-brew-container {
+  margin: 0 !important;
+  height: 152px;
+  width: 721px;
+  position: absolute;
+  top: -147px;
+  left: -284px;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  z-index: 1;
+}
+.frame-inner,
+.rectangle-icon {
+  position: relative;
+  max-width: 100%;
+}
+.frame-inner {
+  height: 418px;
+  width: 420px;
+  background-color: var(--color-white);
+  display: none;
+}
+.rectangle-icon {
+  height: 260px;
+  flex: 1;
+  overflow: hidden;
+  object-fit: cover;
+  z-index: 1;
+}
+.rectangle-container {
+  height: 418px;
+  width: 420px;
+  margin: 0 !important;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-2xl) var(--padding-25xl) var(--padding-2xl) 51px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.awaken-your-senses,
+.coffee {
+  margin: 0;
+}
+.coffee-awaken-your-container {
+  flex: 1;
+  position: relative;
+  z-index: 1;
+}
+.coffee-awaken-your-senses-wit-wrapper {
+  width: 405px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-36xl);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.coffee-image {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 100%;
+}
+.cupcake-1-icon {
+  position: absolute;
+  top: 19px;
+  left: 51px;
+  width: 325px;
+  height: 275px;
+  object-fit: cover;
+  z-index: 1;
+}
+.cupcake-image {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.cupcakes,
+.sweeten-your-day {
+  margin: 0;
+}
+.cupcakes-sweeten-your-container {
+  position: absolute;
+  top: 293px;
+  left: 38px;
+  display: inline-block;
+  width: 330px;
+  height: 140px;
+  z-index: 2;
+}
+.cupcake-image-parent {
+  align-self: stretch;
+  height: 433px;
+  position: relative;
+  color: #0288d1;
+}
+.coffee-description {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-lg);
+  min-width: 273px;
+  max-width: 100%;
+}
+.see-more-button-child {
+  width: 410px;
+  height: 418px;
+  position: relative;
+  background-color: var(--color-white);
+  display: none;
+  max-width: 100%;
+}
+.donut-icon {
+  height: 265px;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  object-fit: cover;
+  z-index: 1;
+}
+.menu-category-details {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 16px 0 0;
+}
+.savor-serenity,
+.vanilla-latte {
+  margin: 0;
+}
+.vanilla-latte-savor-container {
+  width: 281px;
+  position: relative;
+  display: inline-block;
+  z-index: 1;
+}
+.donut-info-child,
+.see-more-button {
+  background-color: var(--color-white);
+  max-width: 100%;
+}
+.see-more-button {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: var(--padding-2xl) 56px 28px var(--padding-25xl);
+  box-sizing: border-box;
+  gap: 11px;
+}
+.donut-info-child {
+  width: 410px;
+  height: 427px;
+  position: relative;
+  display: none;
+}
+.donuts-1-icon {
+  margin-bottom: -7px;
+  height: 275px;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  object-fit: cover;
+  z-index: 1;
+}
+.donuts-1-wrapper {
+  align-self: stretch;
+  height: 268px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0;
+  box-sizing: border-box;
+}
+.donuts,
+.indulge-in-sweet {
+  margin: 0;
+}
+.donuts-indulge-in-container {
+  width: 288px;
+  position: relative;
+  display: inline-block;
+  z-index: 2;
+}
+.donut-info {
+  align-self: stretch;
+  background-color: var(--color-white);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 22px var(--padding-42xl) 0 var(--padding-36xl);
+  box-sizing: border-box;
+  max-width: 100%;
+  color: #7b1fa2;
+}
+.social-media-icons,
+.social-media-icons-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.social-media-icons {
+  align-self: stretch;
+  justify-content: flex-start;
+  gap: 23px;
+}
+.social-media-icons-wrapper {
+  flex: 1;
+  justify-content: flex-end;
+  padding: 0 0 var(--padding-7xs);
+  box-sizing: border-box;
+  min-width: 266px;
+  color: #e91e63;
+}
+.coffee-description-parent {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 71px;
+  max-width: 100%;
+  text-align: center;
+  font-size: var(--font-size-21xl);
+  color: #873600;
+}
+.desktop-1,
+.vibe-brew,
+.vibe-brew-wrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.vibe-brew {
+  align-self: stretch;
+  flex-direction: row;
+  position: relative;
+  max-width: 100%;
+}
+.desktop-1,
+.vibe-brew-wrapper {
+  color: var(--color-black);
+  font-family: var(--font-island-moments);
+}
+.vibe-brew-wrapper {
+  width: 901px;
+  flex-direction: column;
+  padding: 144px 0 0;
+  box-sizing: border-box;
+  min-width: 901px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 150px;
+}
+.desktop-1 {
+  width: 100%;
+  position: relative;
+  background-color: #5d6d7e;
+  overflow: hidden;
+  flex-direction: row;
+  gap: 61px;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  font-size: var(--font-size-36xl);
+}
+@media screen and (max-width: 1325px) {
+  .header,
+  .vibe-brew-wrapper {
+    flex: 1;
+  }
+  .desktop-1 {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 1125px) {
+  .header {
+    padding-top: 189px;
+    padding-bottom: 24px;
+    box-sizing: border-box;
+  }
+  .coffee-description-parent {
+    gap: 35px;
+  }
+  .vibe-brew-wrapper {
+    padding-top: 94px;
+    box-sizing: border-box;
+    min-width: 100%;
+  }
+}
+@media screen and (max-width: 800px) {
+  .celebration-booking {
+    font-size: 44px;
+  }
+  .brookebondroadcoimbatore,
+  .div {
+    font-size: var(--font-size-13xl);
+  }
+  .nithyajoseph1818gmailcom {
+    font-size: 28px;
+  }
+  .header {
+    min-width: 100%;
+  }
+  .vibe-and-brew-container {
+    font-size: 60px;
+  }
+  .coffee-awaken-your-container,
+  .cupcakes-sweeten-your-container,
+  .donuts-indulge-in-container,
+  .vanilla-latte-savor-container {
+    font-size: var(--font-size-13xl);
+  }
+  .coffee-description-parent {
+    flex-wrap: wrap;
+  }
+  .vibe-brew-wrapper {
+    padding-top: var(--padding-42xl);
+    box-sizing: border-box;
+  }
+  .desktop-1 {
+    gap: 30px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .celebration-booking {
+    font-size: 33px;
+  }
+  .brookebondroadcoimbatore,
+  .div {
+    font-size: var(--font-size-5xl);
+  }
+  .nithyajoseph1818gmailcom {
+    font-size: 21px;
+  }
+  .food-item-images {
+    flex-wrap: wrap;
+  }
+  .header {
+    gap: 122px;
+    padding-top: 123px;
+    padding-bottom: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .vibe-and-brew-container {
+    font-size: 37px;
+  }
+  .coffee-awaken-your-container {
+    font-size: var(--font-size-5xl);
+  }
+  .coffee-awaken-your-senses-wit-wrapper {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .cupcakes-sweeten-your-container,
+  .vanilla-latte-savor-container {
+    font-size: var(--font-size-5xl);
+  }
+  .see-more-button {
+    padding: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .donuts-indulge-in-container {
+    font-size: var(--font-size-5xl);
+  }
+  .donut-info {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .coffee-description-parent {
+    gap: var(--gap-lg);
+  }
+  .desktop-1 {
+    gap: 15px;
+  }
+}
